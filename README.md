@@ -1,5 +1,5 @@
-![header1](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=1d4ed8&center=true&vCenter=true&width=700&fontSize=50&lines=Zero+to+Hero+H%C9%99ft%C9%99si)
-![header2](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=047857&center=true&vCenter=true&width=700&fontSize=40&lines=Ramid+Askerov)
+![header1](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&color=1d4ed8&center=true&vCenter=true&width=1000&fontSize=50&lines=Zero+to+Hero+H%C9%99ft%C9%99si)
+![header2](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&color=047857&center=true&vCenter=true&width=700&fontSize=40&lines=Ramid+Askerov)
 
 
 🕒 Deadline:  
