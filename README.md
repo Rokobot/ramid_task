@@ -1,8 +1,9 @@
-# Zero to Hero Həftəsi
-# Ramid Askerov 
+![header1](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=1d4ed8&center=true&vCenter=true&width=700&fontSize=50&lines=Zero+to+Hero+H%C9%99ft%C9%99si)
+![header2](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=047857&center=true&vCenter=true&width=700&fontSize=40&lines=Ramid+Askerov)
+
 
 🕒 Deadline:  
-![deadline](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=E63946&center=true&vCenter=true&width=700&fontSize=40&lines=Cümə,+24%3A00+(midnight))
+![deadline](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=E63946&center=true&vCenter=true&width=700&fontSize=40&lines=Cümə,+24%3A00)
 
 ---
 
