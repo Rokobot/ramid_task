@@ -1,4 +1,4 @@
-# Dart Hero to Zero Həftəsi
+# Zero to Hero Həftəsi
 
 # Dart Programming Tasks — From Easy to Hard
 
