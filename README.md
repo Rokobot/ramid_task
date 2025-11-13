@@ -1,6 +1,5 @@
 # Zero to Hero Həftəsi
-
-# Dart Programming Tasks — From Easy to Hard
+# Ramid Askerov 
 
 ---
 
