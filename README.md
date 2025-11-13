@@ -1,3 +1,5 @@
+Dart Hero to Zero Həftəsi
+
 # Dart Programming Tasks — From Easy to Hard
 
 ---
@@ -18,8 +20,7 @@ Learn to use Dart’s basic data types.
 **Example Output:**
 My name is Ali. I am 20 years old, 1.75 meters tall, and I am a student: true.
 
-markdown
-Copy code
+
 
 ---
 
@@ -38,8 +39,6 @@ Understand how to create and modify a list.
 Cities: [Baku, Paris, Tokyo, London, New York]
 Total cities: 5
 
-pgsql
-Copy code
 
 ---
 
@@ -58,8 +57,6 @@ Learn how Sets store only unique values.
 Numbers: {2, 4, 6, 8}
 Contains 6: true
 
-pgsql
-Copy code
 
 ---
 
