@@ -1,7 +1,20 @@
 # Zero to Hero Həftəsi
 # Ramid Askerov 
 
+<h3>🕒 Deadline:</h3>
+<p style="font-size:20px; font-weight:bold; animation: blink 1s infinite; color:#e63946;">
+  Today, 24:00 (midnight)
+</p>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.4; }
+  100% { opacity: 1; }
+}
+</style>
 ---
+
 
 ## **Task 1: Basic Data Types (Easy)**
 
