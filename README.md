@@ -1,9 +1,8 @@
 # Zero to Hero Həftəsi
 # Ramid Askerov 
 
-Ramid Askerov  
 🕒 Deadline:  
-![deadline](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=E63946&center=true&vCenter=true&width=435&lines=Today,+24%3A00+(midnight))
+![deadline](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=E63946&center=true&vCenter=true&width=700&fontSize=40&lines=Today,+24%3A00+(midnight))
 
 ---
 
