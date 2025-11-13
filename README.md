@@ -2,14 +2,14 @@
 # Ramid Askerov 
 
 <h3>🕒 Deadline:</h3>
-<p style="font-size:20px; font-weight:bold; animation: blink 1s infinite; color:#e63946;">
+<p style="font-size:20px;font-weight:bold;color:#e63946;
+animation: blink 1s infinite; text-shadow:0 0 5px #ff5555;">
   Today, 24:00 (midnight)
 </p>
-
 <style>
 @keyframes blink {
   0% { opacity: 1; }
-  50% { opacity: 0.4; }
+  50% { opacity: 0.3; }
   100% { opacity: 1; }
 }
 </style>
