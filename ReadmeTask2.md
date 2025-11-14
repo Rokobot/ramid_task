@@ -299,6 +299,9 @@ David
 -----
 
 ## 2\) Alfa Task — Map of URLs 🖼️
+![_ (2)](https://github.com/user-attachments/assets/b5b15932-af22-45f3-8831-2116386aaf04)
+
+
 
 We iterate over the Map's values (the URLs) and use the `endsWith` `String` method to check if the URL string ends with the desired suffix `.jpeg`.
 
