@@ -1,4 +1,6 @@
 # Zero to Hero Həftəsi
+![ZERO TO HERO - Muhammad Hafiz](https://github.com/user-attachments/assets/813cc93b-95ba-48a2-be98-034221a76fa4)
+
 # Ramid Askerov
 
 🕒 Deadline:  
