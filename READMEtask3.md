@@ -1,3 +1,17 @@
+
+
+
+# Zero to Hero Həftəsi
+# Ramid Askerov
+
+🕒 Deadline:  
+![deadline](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=E63946&center=true&vCenter=true&width=200&fontSize=40&lines=Çərşənbə,+24%3A00)
+
+---
+
+
+![Flutter - Build apps for any screen](https://github.com/user-attachments/assets/1b383a87-f05f-4bdb-b385-7130f98dd076)
+
 # 1. Basic Future
 
 Future.delayed istifadə edərək 3 saniyə sonra ekrana “Hello Flutter” yazan bir proqram yazın.
