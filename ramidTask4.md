@@ -149,3 +149,36 @@ Loading
 Error
 
 Success
+
+################################################################################################################################################
+# 5 Interview Sualları (Variantlı)
+
+## Sual 1: FutureBuilder nə üçündür?
+A) Asinxron əməliyyat nəticəsini UI-də göstərmək
+B) UI-də hər zaman statik məlumat göstərmək
+C) Animasiya yaratmaq
+D) Form məlumatlarını göndərmək
+
+## Sual 2: Future tamamlanana qədər hansı widget istifadə olunur?
+A) Text
+B) CircularProgressIndicator
+C) Icon
+D) Container
+
+## Sual 3: API çağırışı uğursuz olarsa nə etmək lazımdır?
+A) UI-də xətanı göstərmək
+B) Heç nə etməmək
+C) Məlumatları silmək
+D) Yalnız konsolda yazmaq
+
+## Sual 4: async və await nə üçün istifadə olunur?
+A) Kodun daha uzun olmasını təmin etmək
+B) Asinxron əməliyyatları daha oxunaqlı etmək
+C) UI-ni rəngləndirmək
+D) Kodun sürətini artırmaq üçün
+
+## Sual 5: Pull-to-refresh nə üçün istifadə olunur?
+A) Məlumatı yeniləmək üçün
+B) UI animasiyasını göstərmək üçün
+C) Form məlumatlarını göndərmək üçün
+D) ListView-də şəkilləri göstərmək üçün
