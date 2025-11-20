@@ -1,7 +1,7 @@
 # ✅ Hissə 1 — Xətalı Kodlu 5 Task
 Task 1 — Xətalı FutureBuilder istifadə
 
-❌ Xətalı kod:
+# ❌ Xətalı kod:
 
 Future<String> getData() {
   Future.delayed(Duration(seconds: 2));
@@ -22,11 +22,11 @@ Widget build(BuildContext context) {
 }
 
 
-🧩 Developer tapşırığı: Koddakı 3 xətanı tap və düzəlt.
+# 🧩 Developer tapşırığı: Koddakı 3 xətanı tap və düzəlt.
 
 Task 2 — Loading vəziyyəti səhv işləyir
 
-❌ Xətalı kod:
+## ❌ Xətalı kod:
 
 Future<List<String>> fetchItems() async {
   return Future.delayed(Duration(seconds: 1), () {
