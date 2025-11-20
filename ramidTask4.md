@@ -124,23 +124,23 @@ Widget build(context) {
 # 🧩 Tapşırıq: Retry düyməsinə basanda UI yenilənmir. Səbəbi tap.
 
 ## ✅ Hissə 2 — Normal 5 Task (Xəta yoxdur)
-Task 6
+## Task 6
 
-## Future ilə API-dən məlumatı çək, yüklənərkən loading göstər, nəticədə list çıxart.
+ Future ilə API-dən məlumatı çək, yüklənərkən loading göstər, nəticədə list çıxart.
 
-Task 7
+## Task 7
 
 Pull-to-refresh ilə siyahını yenilə (RefreshIndicator istifadə et).
 
-Task 8
+## Task 8
 
 Future timeout olarsa ekranda “Request Timeout” mesajı göstər.
 
-Task 9
+## Task 9
 
 Future nəticəsi boş siyahı olarsa “No Data Found” widget-ı göstər.
 
-Task 10
+## Task 10
 
 API nəticəsinə görə UI-də 3 vəziyyət göstər:
 
