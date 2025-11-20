@@ -1,4 +1,4 @@
-# Zero to Hero Həftəsi
+# Zero to Hero Həftəsi 2
 # Ramid Askerov
 
 🕒 Deadline:  
