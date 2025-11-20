@@ -1,3 +1,15 @@
+# Zero to Hero Həftəsi
+# Ramid Askerov
+
+🕒 Deadline:  
+![deadline](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=E63946&center=true&vCenter=true&width=200&fontSize=40&lines=Cümə,+24%3A00)
+
+---
+
+![35cc42f4153ca913095639cb9936cfd8](https://github.com/user-attachments/assets/2d95f03d-9720-4661-830f-d8db16c072e1)
+
+
+
 ## Task 1 — Xətalı FutureBuilder istifadə
 
  ❌ Xətalı kod:
@@ -152,6 +164,9 @@ Success
 
 ################################################################################################################################################
 # 5 Interview Sualları (Variantlı)
+
+![e3696f7becee98cb580a473f4916b852](https://github.com/user-attachments/assets/e97440b8-2313-4c5b-9dce-07edde7fcac9)
+
 
 ## Sual 1: FutureBuilder nə üçündür?
 A) Asinxron əməliyyat nəticəsini UI-də göstərmək
