@@ -1,4 +1,4 @@
-# ✅ Hissə 1 — Xətalı Kodlu 5 Task
+## ✅ Hissə 1 — Xətalı Kodlu 5 Task
 Task 1 — Xətalı FutureBuilder istifadə
 
 # ❌ Xətalı kod:
@@ -26,7 +26,7 @@ Widget build(BuildContext context) {
 
 Task 2 — Loading vəziyyəti səhv işləyir
 
-## ❌ Xətalı kod:
+# ❌ Xətalı kod:
 
 Future<List<String>> fetchItems() async {
   return Future.delayed(Duration(seconds: 1), () {
@@ -49,11 +49,11 @@ Widget build(context) {
 }
 
 
-🧩 Tapşırıq: Siyahı ekranda görünmür. Xətanı tap.
+## 🧩 Tapşırıq: Siyahı ekranda görünmür. Xətanı tap.
 
 Task 3 — API error göstərilmir
 
-❌ Xətalı kod:
+# ❌ Xətalı kod:
 
 Future<String> loadUser() async {
   throw Exception("Network Error");
@@ -72,11 +72,11 @@ Widget build(context) {
 }
 
 
-🧩 Tapşırıq: Xəta baş verəndə ekranda heç nə dəyişmir. Səbəbi tap.
+## 🧩 Tapşırıq: Xəta baş verəndə ekranda heç nə dəyişmir. Səbəbi tap.
 
 Task 4 — Wrong async/await usage
 
-❌ Xətalı kod:
+# ❌ Xətalı kod:
 
 Future<int> calculate() async {
   int x = await Future(() => 5);
@@ -85,11 +85,11 @@ Future<int> calculate() async {
 }
 
 
-🧩 Tapşırıq: Kod niyə işləmir? Problemi göstər.
+## 🧩 Tapşırıq: Kod niyə işləmir? Problemi göstər.
 
 Task 5 — Retry düyməsi işləmir
 
-❌ Xətalı kod:
+# ❌ Xətalı kod:
 
 late Future<String> future;
 
@@ -122,9 +122,9 @@ Widget build(context) {
 }
 
 
-🧩 Tapşırıq: Retry düyməsinə basanda UI yenilənmir. Səbəbi tap.
+## 🧩 Tapşırıq: Retry düyməsinə basanda UI yenilənmir. Səbəbi tap.
 
-✅ Hissə 2 — Normal 5 Task (Xəta yoxdur)
+# ✅ Hissə 2 — Normal 5 Task (Xəta yoxdur)
 Task 6
 
 Future ilə API-dən məlumatı çək, yüklənərkən loading göstər, nəticədə list çıxart.
